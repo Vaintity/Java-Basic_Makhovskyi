@@ -10,9 +10,10 @@ username = 'root' where 'root' is your username
 password = 'tmppasswd' where 'tmppasswd' is your password  
 
 As for now this java tool can:
-1) Check math function and add it to database
-2) Check roots and add them to db
-3) find function in db using provided roots  
+1. Check math function and add it to database
+2. Check roots and add them to db
+3. find function in db using provided roots  
+
 Database includes:
 1) 'func' table with 2 columns: 'idfunc' and 'funccontent'
 2) 'roots' table with 2 columns: 'idroots' and 'rootscontent'
