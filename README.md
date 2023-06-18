@@ -1,7 +1,7 @@
 # Java-Basic_Makhovskyi
 
-1. Create MySQL connection 
-2. Open and execute SQL Script
+1. Create MySQL connection
+2. In MySQL Workbench open and execute 'func_stor_script.sql' SQL Script
 3. Compile javac test_1.java
 4. (Ubuntu) Run java -classpath ./mysql-connector-j-8.0.33.jar:./ test_1 
 5. For credentials use:
