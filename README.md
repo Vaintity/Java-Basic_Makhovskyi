@@ -5,9 +5,9 @@
 3. Compile javac test_1.java
 4. (Ubuntu) Run java -classpath ./mysql-connector-j-8.0.33.jar:./ test_1 
 5. For credentials use:
-url = 'jdbc:mysql://localhost/func_storage' where 'func_storage' is your db name
-username = 'root' where 'root' is your username
-password = 'tmppasswd' where 'tmppasswd' is your password
+url = 'jdbc:mysql://localhost/func_storage' where 'func_storage' is your db name  
+username = 'root' where 'root' is your username  
+password = 'tmppasswd' where 'tmppasswd' is your password  
 As for now this java tool can:
 1) Check math function and add it to database
 2) Check roots and add them to db
